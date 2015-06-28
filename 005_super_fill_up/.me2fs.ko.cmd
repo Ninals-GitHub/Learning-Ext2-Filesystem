@@ -1,0 +1,1 @@
+cmd_/home/yabusame2001/program/fs/005_super_fill_up/me2fs.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/yabusame2001/program/fs/005_super_fill_up/me2fs.ko /home/yabusame2001/program/fs/005_super_fill_up/me2fs.o /home/yabusame2001/program/fs/005_super_fill_up/me2fs.mod.o

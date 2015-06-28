@@ -1,0 +1,1 @@
+cmd_/home/yabusame2001/program/fs/005_super_fill_up/me2fs.o := ld -m elf_x86_64   -r -o /home/yabusame2001/program/fs/005_super_fill_up/me2fs.o /home/yabusame2001/program/fs/005_super_fill_up/me2fs_main.o /home/yabusame2001/program/fs/005_super_fill_up/me2fs_super.o 
